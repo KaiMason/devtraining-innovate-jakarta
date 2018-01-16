@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="c1c280abdb9303006e6152b0cf961910" sys_domain="global" table="x_22458_innovate_innovate" version="3">
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_22458_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-02 12:48:44</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c1c280abdb9303006e6152b0cf961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_22458_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_22458_innovate">55b00397db1303006e6152b0cf9619de</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Innovate">55b00397db1303006e6152b0cf9619de</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c1c280abdb9303006e6152b0cf961910</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-02 12:48:44</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
